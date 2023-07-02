@@ -17,6 +17,6 @@ REST API приложением, и наш же компьютер шлет HTTP
 
 <p>ТЗ по которому создавался проект можно посмотреть в документе ниже.</p>
 
-<a href="https://github.com/Nikita333111/Rest-API-for-Sensor/Project3_TZ.pdf">ТЗ к проекту</a>
+<a href="https://github.com/Nikita333111/Rest-API-for-Sensor/blob/master/Project3_TZ.pdf">ТЗ к проекту</a>
 
 </div>
